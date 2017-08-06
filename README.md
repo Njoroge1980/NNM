@@ -1,37 +1,34 @@
-# {Application Name}
+# {NNM}
 
-#### {Brief description of application}, {Date of current version}
+#### {My Personal Webpage}, {4th August 2017}
 
-#### By **{List of contributors}**
+#### By **{Njoroge Mungai}**
 
-## Description
+## This is a personal webpage of Njoroge Mungai. It details all there is to know about the man.
 
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 
 ## Setup/Installation Requirements
 
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* This webpage will run on all standard web browsers, including Google Chrome, Firefox Mozilla, Internet Explorer etc.
+* To open the webpage, click on the link.
+* The website is constructed using html and styled using CSS and Bootstrap.
 
 ## Known Bugs
 
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{This webpage has no known bugs however if you find a bug , kindly open an issue here by including your search query and the expected result.
+If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.}
 
 ## Technologies Used
 
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{The website is constructed using HTML and styled using CSS and Bootstrap..}
 
 ## Support and contact details
 
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{For comments, concerns, ideas or other contribution to this website, you can reach us on njorogemungai1980@gmail.com.}
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{This application can be used on the MIT License.}*
 
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {2017} **{Njoroge Mungai}**
