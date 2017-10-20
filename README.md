@@ -6,7 +6,7 @@ Njoroge Njega Mungai
 
 My Personal Webpage, 4th August 2017
 
-#### By **{Njoroge Mungai}**
+#### By Njoroge Mungai
 
 ## This is a personal webpage of Njoroge Mungai. It details all there is to know about the man.
 
@@ -14,9 +14,9 @@ This is a detailed description of your application, including its purpose and us
 
 ## Setup/Installation Requirements
 
-* This webpage will run on all standard web browsers, including Google Chrome, Firefox Mozilla, Internet Explorer etc.
-* To open the webpage, click on the link.
-* The website is constructed using HTML and styled using CSS and Bootstrap.
+ This webpage will run on all standard web browsers, including Google Chrome, Firefox Mozilla, Internet Explorer etc.
+ To open the webpage, click on the link.
+ The website is constructed using HTML and styled using CSS and Bootstrap.
 
 ## Known Bugs
 
@@ -35,4 +35,4 @@ For comments, concerns, ideas or other contribution to this website, you can rea
 
 MIT
 
-Copyright (c) {2017} **{Njoroge Mungai}**
+Copyright (c) 2017 Njoroge Mungai
