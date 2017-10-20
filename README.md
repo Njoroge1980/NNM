@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Njoroge Njega Mungai
+=======
+ Njoroge Njega Mungai
+>>>>>>> 2986b823b740ba37e8c028eb7f0cefea2df9bf25
 
 My Personal Webpage, 4th August 2017
 
