@@ -49,7 +49,7 @@ footer {
 
 a {
 padding:20px;
-color:white;
+
 }
 
 nav {
@@ -69,10 +69,7 @@ nav {
   left: 0;
 }
 
-body {
-background-image: url("../img/background.jpg");
-background-attachment: fixed;
-}
+
 
 .row {
   background-color: white;
@@ -90,9 +87,3 @@ background-attachment: fixed;
 .p1 {
   padding-bottom: 180px;
 }
-/*.aboutclass {
-  background-color: white;
-}
-.links {
-  color: black;
-}*/
