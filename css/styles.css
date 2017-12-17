@@ -70,9 +70,13 @@ nav {
   left: 0;
 }
 
+#about{
+  background-image:url("../img/1920x1080-Wallpaper-84B.jpg");
+  background-position: center;
+}
+
 body {
 background-image: url("../img/background.jpg");
-background-attachment: fixed;
 }
 
 .row {
