@@ -3,9 +3,7 @@ My Personal Webpage, 4th August 2017
 
 #### By Njoroge Mungai
 
-## This is the personal webpage of Njoroge Mungai. It details all there is to know about the man.
-
-This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have.
+This is the personal webpage of Njoroge Mungai. It details all there is to know about the man.
 
 ## Setup/Installation Requirements
 
